@@ -10,5 +10,5 @@ jobs:
 
     steps:
       - name: say hello to username
-        run: echo "hello $user"
+        run: echo "hello $USER"
     
